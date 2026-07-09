@@ -29,10 +29,10 @@ Demo credentials for all environments: **[miracuves.com/rover-clone → Demo sec
 Most pet-care scripts stop at "search a walker." This platform ships with the features that actually run a pet-care *business*:
 
 - **Background-Checked Walkers** — ID + background check on every walker — what pet owners actually pay for
-- **Live GPS Walk Tracking** — 
-- **Recurring-Booking Engine** — owner sees route, distance, time, photos + notes after every walk — same feed Rover uses
-- **Boarding & Home-Sitting** — in-app vet chat with subscription — what makes the platform comprehensive
-- **Vet Chat Add-On** — stay-at-home-sitter, kennel, day-care modes — same network Rover uses
+- **Live GPS Walk Tracking** — owner sees route, distance, time, photos + notes after every walk — same feed Rover uses
+- **Recurring-Booking Engine** — weekly/daily walks and drop-ins — what drives LTV in pet-care
+- **Boarding & Home-Sitting** — stay-at-home-sitter, kennel, day-care modes — same network Rover uses
+- **Vet Chat Add-On** — in-app vet chat with subscription — what makes the platform comprehensive
 
 ## 📦 Core Features
 
